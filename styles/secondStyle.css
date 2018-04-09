@@ -1,0 +1,60 @@
+#greet {
+    display: block;
+    min-height: 516px;
+    background: url("../images/keyboard.png") no-repeat center;
+}
+
+#greet {
+    color: white;
+    text-align: center;
+    font-size: 60pt;
+    margin-top: 0;
+    padding-top: 77px;
+    letter-spacing: 0.12em;
+}
+
+.hi {
+    display: inline;
+    text-align: center;
+    font-family:"Raleway Light", serif;
+}
+
+.name {
+    display: inline;
+    font-size: 61pt;
+    font-family: "Raleway ExtraBold", serif;
+}
+
+.line {
+    border-bottom: 2px solid white;
+    width: 92pt;
+    display: block;
+    margin: auto;
+    padding-top: 31pt;
+}
+
+.job {
+    font-family: "Raleway SemiBold", serif;
+    font-size: 18pt;
+    letter-spacing: 0.17em;
+    padding-top: 45pt;
+}
+
+#cv {
+    font-family: "Raleway Medium", serif;
+    font-size: 12pt;
+    letter-spacing: 0.1em;
+    color: white;
+    border: 0;
+    border-radius: 37px;
+    background: #3366ff;
+    height: 45pt;
+    min-width: 180pt;
+    outline: none;
+}
+
+#cv:hover {
+    cursor: pointer;
+    background-color: white;
+    color: black;
+}
