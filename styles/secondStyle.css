@@ -58,3 +58,14 @@
     background-color: white;
     color: black;
 }
+
+#one {
+    display: inline-flex;
+    padding-left: 180px;
+}
+
+#arrow {
+    min-width: auto;
+    padding-left: 40px;
+    padding-top: 10px;
+}
