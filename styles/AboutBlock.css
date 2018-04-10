@@ -1,0 +1,47 @@
+#about {
+    padding-top: 120pt;
+}
+
+.text {
+    font-family: "Raleway ExtraBold", serif;
+    text-align: center;
+    letter-spacing: 0.15em;
+    font-size: 26pt;
+}
+
+.blueLine {
+    border-bottom: 2px solid #3366ff;
+    width: 92pt;
+    display: block;
+    margin: auto;
+}
+
+.story {
+    text-align: center;
+    font-family: "Raleway Regular", serif;
+    font-size: 12pt;
+    line-height: 22pt;
+    padding-top: 22px;
+}
+
+#gif {
+    text-align: center;
+    display: block;
+}
+
+#gif img {
+    display: inline-block;
+    margin: 30px 70px 0 70px;
+}
+
+.devSign {
+    display: block;
+}
+
+.gameSign {
+    display: block;
+}
+
+.musicSign {
+     display: block;
+ }

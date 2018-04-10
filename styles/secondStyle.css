@@ -1,6 +1,6 @@
 #greet {
     display: block;
-    min-height: 516px;
+    height: 516px;
     background: url("../images/keyboard.png") no-repeat center;
 }
 
@@ -16,13 +16,13 @@
 .hi {
     display: inline;
     text-align: center;
-    font-family:"Raleway Light", serif;
+    font-family:"Raleway Light", sans-serif;
 }
 
 .name {
     display: inline;
     font-size: 61pt;
-    font-family: "Raleway ExtraBold", serif;
+    font-family: "Raleway ExtraBold", sans-serif;
 }
 
 .line {
@@ -34,14 +34,14 @@
 }
 
 .job {
-    font-family: "Raleway SemiBold", serif;
+    font-family: "Raleway SemiBold", sans-serif;
     font-size: 18pt;
     letter-spacing: 0.17em;
-    padding-top: 45pt;
+    padding-top: 20pt;
 }
 
 #cv {
-    font-family: "Raleway Medium", serif;
+    font-family: "Raleway Medium", sans-serif;
     font-size: 12pt;
     letter-spacing: 0.1em;
     color: white;

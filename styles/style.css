@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Raleway:400,600');
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700,800');
 
 html, body {
     margin: 0;
@@ -38,7 +38,7 @@ html, body {
 }
 
 #links {
-    font-family: "Raleway SemiBold", serif;
+    font-family: "Raleway SemiBold", sans-serif;
     color: #3366ff;
     float: right;
     padding-right: 100px;
