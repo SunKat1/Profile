@@ -24,24 +24,25 @@
     padding-top: 22px;
 }
 
-#gif {
+td {
+    width: 400px;
+}
+
+.gif {
+    display: table-cell;
     text-align: center;
-    display: inline-block;
 }
 
-#gif img {
-    display: inline-block;
-    margin: 30px 70px 0 70px;
+.gif img {
+    text-align: center;
 }
 
-.devSign {
+#gifs {
+    padding-top: 20pt;
+    margin: auto;
+}
+
+span {
+    padding-top: 25px;
     display: block;
 }
-
-.gameSign {
-    display: block;
-}
-
-.musicSign {
-     display: block;
- }
