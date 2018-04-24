@@ -5,6 +5,7 @@ html, body {
 }
 
 #header {
+    position: fixed;
     display: block;
     width: 100%;
     min-height: 65px;
