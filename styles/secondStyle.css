@@ -1,7 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700,800');
+
 #greet {
     display: block;
     height: 516px;
     background: url("../images/keyboard.png") no-repeat center;
+    min-width: 100%
 }
 
 #greet {
