@@ -1,0 +1,56 @@
+#workExp {
+    margin-bottom: 67px;
+}
+
+#title {
+    padding-top: 43px;
+    text-align: center;
+    font-family: "Raleway ExtraBold", serif;
+    font-size: 35px;
+}
+
+#lineLine {
+    border-bottom: 2px solid #3366ff;
+    width: 92pt;
+    display: block;
+    margin: auto;
+    padding-top: 2px;
+}
+
+.workBlock {
+    margin: 53px auto 0 auto;
+    height: 169px;
+    border: 2px solid black;
+    width: 615px;
+}
+
+.middleLine {
+    height: 36px;
+    border: 1px solid black;
+    width: 0;
+    margin: 11px auto -42px auto;
+}
+
+.workDate {
+    letter-spacing: 0.12em;
+    margin: 30px 0 0 0;
+    font-size: 16px;
+    font-family: "Raleway ExtraBold", serif;
+    text-align: center;
+    color: #3366ff;
+}
+
+.workTitle {
+    margin: 17px 0 0 0;
+    font-size: 35px;
+    padding-top: -2px;
+    text-align: center;
+    font-family: "Raleway ExtraBold", serif;
+}
+
+.workSpec {
+    margin: 11px 0 0 0;
+    font-size: 23px;
+    text-align: center;
+    font-family: "Raleway Regular", serif;
+}

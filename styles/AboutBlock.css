@@ -8,7 +8,7 @@
     font-family: "Raleway ExtraBold", serif;
     text-align: center;
     letter-spacing: 0.15em;
-    font-size: 26pt;
+    font-size: 41px;
 }
 
 .blueLine {
@@ -21,7 +21,7 @@
 .story {
     text-align: center;
     font-family: "Raleway Regular", serif;
-    font-size: 12pt;
+    font-size: 17px;
     line-height: 22pt;
     padding-top: 22px;
 }
@@ -36,8 +36,12 @@
 }
 
 #gifs {
-    padding-top: 20pt;
+    padding-top: 79px;
     margin: auto;
+    font-family: "Raleway ExtraBold", serif;
+    letter-spacing: 0.15em;
+    font-size: 27px;
+    padding-bottom: 79px;
 }
 
 span {

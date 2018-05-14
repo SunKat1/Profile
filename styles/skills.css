@@ -3,7 +3,7 @@
 #skills {
     display: block;
     background: url("../images/blue_bg.png") no-repeat 50% 50%;
-    height: 400px;
+    height: 378px;
 }
 
 #skills > p {
@@ -26,15 +26,18 @@
 #skillTable {
     position: relative;
     margin: auto;
-    padding-top: 50px;
+    padding-top: 25px;
 }
 
 .fullSkillName {
     text-align: center;
+    font-size: 18px;
+    font-family: "Raleway ExtraBold", serif;
 }
 
 .skillIcon {
-    height: 194px;
+    letter-spacing: 0.12em;
+    height: 200px;
     width: 400px;
 }
 
