@@ -32,11 +32,11 @@
 .fullSkillName {
     text-align: center;
     font-size: 18px;
+    letter-spacing: 0.12em;
     font-family: "Raleway ExtraBold", serif;
 }
 
 .skillIcon {
-    letter-spacing: 0.12em;
     height: 200px;
     width: 400px;
 }
